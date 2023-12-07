@@ -43,14 +43,5 @@
 		</plugins>
 
 	</build>
-	
-	<profiles>
-    <profile>
-        <id>myProfile</id>
-        <!-- Other configuration for the profile -->
-    </profile>
-</profiles>
-
-
 
 </project>
